@@ -1,0 +1,95 @@
+#EXTM3U
+
+#EXTINF:-1 ,ZONDA TV 
+https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,Telesol (TLS) (432p) [Not 24/7]
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
+#EXTINF:-1 ,CANAL 8 SAN JUAN
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=Vn4xlzTeQXc
+#EXTINF:-1 ,CANAL 13 SAN JUAN
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=sUjG3LBP2SE
+#EXTINF:-1 ,TV Pública (TVP)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/TVPublicaArgentina/live
+#EXTINF:-1 ,TELEVISION PUBLICA
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=2rY0ilBLWJg
+#EXTINF:-1 ,CANAL 7 MENDOZA
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=wzftWTLzb9w
+#EXTINF:-1 ,CINE AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,TN
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=wHn1_QVoXGM
+#EXTINF:-1 ,HISTORY
+http://clubtv.link/m26m/m26m/respaldo.php?c=3564&f=.m3u8
+#EXTINF:-1 ,DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 ,CANAL 13 CHILE (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=Ove87nZ_1D4
+#EXTINF:-1 ,CINECANAL
+http://clubtv.link/m26m/m26m/lista1.php?c=a005&f=.m3u8
+#EXTINF:-1 ,CINEMAX
+http://clubtv.link/m26m/m26m/respaldo.php?c=3150&f=.m3u8
+#EXTINF:-1 ,GOLDEN EDGE
+http://clubtv.link/m26m/m26m/respaldo.php?c=3146&f=.m3u8
+#EXTINF:-1 ,GOLDEN PLUS
+http://clubtv.link/m26m/m26m/respaldo.php?c=1473&f=.m3u8
+#EXTINF:-1 ,HBO
+http://clubtv.link/m26m/m26m/respaldo.php?c=3299&f=.m3u8
+#EXTINF:-1 ,HBO XTREME
+http://clubtv.link/m26m/m26m/respaldo.php?c=3326&f=.m3u8
+#EXTINF:-1 ,HBO Family
+http://clubtv.link/m26m/m26m/respaldo.php?c=3323&f=.m3u8
+#EXTINF:-1 ,HBO MUNDI
+http://clubtv.link/m26m/m26m/respaldo.php?c=3324&f=.m3u8
+#EXTINF:-1 ,HBO POP
+http://clubtv.link/m26m/m26m/respaldo.php?c=3159&f=.m3u8
+#EXTINF:-1 ,TNT
+http://clubtv.link/m26m/m26m/respaldo.php?c=3149&f=.m3u8
+#EXTINF:-1 ,UNIVERSAL
+http://clubtv.link/m26m/m26m/respaldo.php?c=3103&f=.m3u8
+
+#EXTINF:-1 ,ESPN CHILE
+http://clubtv.link/m26m/m26m/lista1.php?c=a01e&f=.m3u8
+#EXTINF:-1 ,ESPN CHILE 2
+http://clubtv.link/m26m/m26m/lista1.php?c=a015&f=.m3u8
+#EXTINF:-1 ,ESPN MEX 2
+http://clubtv.link/m26m/m26m/lista1.php?c=a015
+
+#EXTINF:-1 ,ESPAÑA LA 2
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117155
+#EXTINF:-1 ,ESPAÑA ANTENA 3
+http://clubtv.link/m26m/m26m/lista1.php?c=a005&f=.m3u8
+#EXTINF:-1 ,ESPAÑA CUATRO
+http://clubtv.link/m26m/m26m/lista1.php?c=a005&f=.m3u8
+#EXTINF:-1 ,ESPAÑA TELE 5
+http://tv.proyectox.vip:28000/israelmantilla/pkooSNPDWH/117736
+#EXTINF:-1 ,ESPAÑA LA SEXTA
+http://clubtv.link/m26m/m26m/lista1.php?c=a005&f=.m3u8
+#EXTINF:-1 ,ESPAÑA CALLE 13
+http://clubtv.link/m26m/m26m/lista1.php?c=a005&f=.m3u8
+#EXTINF:-1 ,ESPAÑA Mega
+http://clubtv.link/m26m/m26m/lista1.php?c=a005&f=.m3u8
+#EXTINF:-1 ,ESPAÑA FOX
+http://clubtv.link/m26m/m26m/lista1.php?c=a005&f=.m3u8
+#EXTINF:-1 ,ESPAÑA CINECANAL
+http://clubtv.link/m26m/m26m/lista1.php?c=a005&f=.m3u8
+#EXTINF:-1 ,ESPAÑA M ACCION
+http://clubtv.link/m26m/m26m/lista1.php?c=a005&f=.m3u8
+#EXTINF:-1 ,ESPAÑA M DRAMA
+http://clubtv.link/m26m/m26m/lista1.php?c=a005&f=.m3u8
+#EXTINF:-1 ,ESPAÑA M ESTRENOS
+http://clubtv.link/m26m/m26m/lista1.php?c=a005&f=.m3u8
+#EXTINF:-1 ,ESPAÑA DREAMWORKS
+http://clubtv.link/m26m/m26m/lista1.php?c=a005&f=.m3u8
+#EXTINF:-1 ,ESPAÑA HOLYWOOD
+http://clubtv.link/m26m/m26m/lista1.php?c=a005&f=.m3u8
+#EXTINF:-1 ,ESPAÑA SOMOS
+http://clubtv.link/m26m/m26m/lista1.php?c=a005&f=.m3u8
+#EXTINF:-1 ,ESPAÑA SYFY
+http://clubtv.link/m26m/m26m/lista1.php?c=a005&f=.m3u8
+#EXTINF:-1 ,ESPAÑA XTRM
+http://clubtv.link/m26m/m26m/lista1.php?c=a005&f=.m3u8
+#EXTINF:-1 ,ESPAÑA DISCOVERY
+http://clubtv.link/m26m/m26m/lista1.php?c=a005&f=.m3u8
+#EXTINF:-1 ,ESPAÑA 24HS
+http://clubtv.link/m26m/m26m/lista1.php?c=a005&f=.m3u8
+ 
